@@ -1,6 +1,6 @@
 # Interface Specification Document
 
-![Question5Img](https://i.ibb.co/QM0Z6yZ/c2f1cb7e-5022-433a-93a2-1ac0b6ec1015.png)
+![Question5Img](question5Image.jpeg)
 
 ## Overview
 
